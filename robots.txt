@@ -1,0 +1,7 @@
+# Mass Energy - https://www.massenergy.pk/
+# All crawlers may read the whole site. (The test copy is kept out of
+# search results by a noindex header in .htaccess, not by blocking here.)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.massenergy.pk/sitemap.xml
